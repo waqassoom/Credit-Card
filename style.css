@@ -1,0 +1,124 @@
+body{
+background-image: url(./assets/images/dark-blue-gradient-background_78370-2078.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+#div-1:hover{
+    border: 2px solid rgb(198, 198, 211);
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+    border-radius: 50px;
+background-image: linear-gradient(rgb(27, 27, 86),rgb(29, 29, 180),rgb(27, 27, 86)) ;
+box-shadow: 0px 0px 50px rgb(0, 200, 255);
+}
+#div-1{
+    border: 2px solid rgb(37, 37, 89);
+    width: 500px;
+    height: 300px;
+    margin-top: 100px;
+    border-radius: 50px;
+background-image: linear-gradient(135deg, #4867f3 0%,#6f419d 50%,#f63f4b 100%) ;
+box-shadow: 0px 0px 20px rgb(147, 232, 247);
+}
+#h-2{
+    text-align: start;
+    margin-left: 50px;
+    margin-top: 40px;
+    font-family: arial;
+    color: white;
+}
+#h-2:hover{
+    text-align: start;
+    margin-left: 50px;
+    margin-top: 40px;
+    font-family: arial;
+    color: white;
+}
+#c-1{
+font-size: xxx-large;
+margin-top: -80px;
+}
+#c-2{
+font-size: xxx-large;
+margin-top: -112px;
+
+}
+#sim{
+    width: 170px;
+    height: 150px;
+margin-left: -320px;
+margin-top: -78px;
+}
+#pre{
+    text-align: start;
+    margin-left: 35px;
+    margin-top: -50px;
+        color: white;
+
+}
+#pre-1{
+    text-align: start;
+    margin-left: 35px;
+    font-weight: 700;
+    font-size: large;
+        color: rgb(177, 168, 168);
+        margin-top: -5px;
+
+}
+#pre-2{
+    text-align: start;
+    margin-left: 35px;
+    font-weight: 700;
+    font-size: x-large;
+    margin-top: -8px;
+    font-family: arial;
+    color: rgb(220, 226, 233);
+}
+
+
+
+
+/* div1 end */
+.div-2{
+     border: 2px solid rgb(27, 27, 143);
+    width: 500px;
+    height: 320px;
+    margin-top: 100px;
+    border-radius: 50px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+#h-4{
+    color: rgb(189, 183, 183);
+    text-align: start;
+    margin-left: 40px;
+    font-family: arial;
+    margin-top: 30px;
+}
+#p-01{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -35px;
+    text-align: end;
+    margin-right: 40px;
+}
+#btn{
+background-image: linear-gradient(green,white 10%,green);
+height: 30px;
+width: 80px;
+border-radius: 12px;
+font-family: arial;
+font-weight: 600;
+filter: drop-shadow(0px 0px 20px aqua);
+
+}
+#title{
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    font-size: xxx-large;
+    margin-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+text-shadow: 0px 0px 20px rgb(0, 214, 252);
+}
